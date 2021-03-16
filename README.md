@@ -7,4 +7,5 @@ APIs have their origin in the quest for hardware independence, dating back in co
 
 Almost all modern hardware processing environments provide some manner of hardware abstraction layer (HAL) to abstract around different products with the same product family, and may extend across multiple product families, so as to ease software migration and software modernization. 
 
-
+## Administration guide
+The administration guide helps in administering and managing the things in and out.
